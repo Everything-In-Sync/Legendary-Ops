@@ -284,7 +284,16 @@ form .booking-form-highlight {
 	}
 }
 
-
+/** MISC Layout **/
+.home-text{
+	font-size: 16pt;
+	line-height: 1.5em !important;
+	text-align: center;
+}
+.who-what{
+	font-size: 22pt !important;
+	color: #CA2E2A !important;
+}
 
 
 
